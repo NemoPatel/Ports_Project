@@ -5,4 +5,4 @@ destination.
 
 Additional Requirements :- 
       SQL Database with usernames and passwords that should be connected with the pyhton script
-      
+      Can use any logos instead of given images
