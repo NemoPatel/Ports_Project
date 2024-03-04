@@ -5,6 +5,7 @@ A user-friendly interface for managing shipment details, vessel information, car
 destination.
 
 Additional Requirements :- 
+
       SQL Database with usernames and passwords that should be connected with the pyhton script
       
       Can use any logos instead of given images
