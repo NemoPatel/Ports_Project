@@ -8,6 +8,15 @@ Arstotzka Shipment Services is a desktop application designed to streamline the 
 - **Employee Interface:** Employees can view and manage submitted orders, including details on category, location, weight, the customer who placed the order, and order description.
 - **Database Integration:** Utilizes MySQL for storing and managing orders, ensuring data persistence and reliability.
 
+## Images 
+![Screenshot 2023-02-18 at 12 25 29 PM](https://github.com/NemoPatel/Ports_Project/assets/126904097/c8442ce7-f05f-473b-8da4-c6381d0d577c)
+![Screenshot 2023-02-18 at 12 27 23 PM](https://github.com/NemoPatel/Ports_Project/assets/126904097/7214dc3b-2eda-45b0-beaf-4e7788752ca6)
+![Screenshot 2023-02-18 at 12 27 30 PM](https://github.com/NemoPatel/Ports_Project/assets/126904097/f95daf99-2f70-4258-8db6-a9eeef108b72)
+![Screenshot 2023-02-18 at 12 27 36 PM](https://github.com/NemoPatel/Ports_Project/assets/126904097/76a531a9-20e7-4805-809f-8992a100d4c7)
+![Screenshot 2023-02-18 at 12 27 42 PM](https://github.com/NemoPatel/Ports_Project/assets/126904097/81f9cca9-fd87-4dfb-8ad5-7c09d82936d4)
+![Screenshot 2023-02-18 at 12 27 47 PM](https://github.com/NemoPatel/Ports_Project/assets/126904097/2c2c4de5-10fc-4f36-823e-7a1dd72d439d)
+
+
 
 ### Prerequisites
 - Python 3.x
